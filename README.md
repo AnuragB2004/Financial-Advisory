@@ -243,7 +243,7 @@ Measures incorporated to ensure the security and integrity of the solution inclu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/financial-advisory.git
+   git clone https://github.com/AnuragB2004/financial-advisory.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -263,6 +263,11 @@ Measures incorporated to ensure the security and integrity of the solution inclu
 Contributions are welcome! Please read
 
  the [contributing guidelines](CONTRIBUTING.md) for more details.
+
+## Team Members
+
+Aman Anand
+Akshat Kutariyar
 
 ## License
 
